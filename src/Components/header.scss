@@ -1,0 +1,37 @@
+@import '../scss/abstracts/mixins';
+.header {
+  margin-bottom: 130px;
+  @include screen-phone {
+    margin-bottom: 60px;
+  }
+  .logo {
+    text-align: center;
+    margin-bottom: 72px;
+  }
+  .info {
+    text-align: center;
+    @include screen-phone {
+      padding: 0 25px;
+    }
+
+    &__text {
+      color: #232323;
+      font-family: var(--font-play);
+      font-size: 50px;
+      font-weight: 500;
+      margin-bottom: 66px;
+      @include screen-phone {
+        font-size: 30px;
+      }
+    }
+    &__title {
+      color: #232323;
+      font-family: var(--font-inter);
+      font-size: 20px;
+      font-weight: 800;
+      @include screen-phone {
+        font-size: 18px;
+      }
+    }
+  }
+}

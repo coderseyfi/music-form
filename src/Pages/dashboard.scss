@@ -1,0 +1,26 @@
+.dashboard {
+  background: #fffaf2;
+  background-image: url('../assets/icons/bg.png');
+  mix-blend-mode: luminosity;
+  padding-top: 70px;
+  padding-bottom: 210px;
+  position: relative;
+  .left {
+    position: absolute;
+    left: 0;
+    top: 0;
+    z-index: -1;
+    img {
+      width: 100%;
+    }
+  }
+  .right {
+    position: absolute;
+    right: 0;
+    top: 0;
+    z-index: -1;
+    img {
+      width: 100%;
+    }
+  }
+}

@@ -1,0 +1,28 @@
+@import '../scss/abstracts/mixins';
+.form-submit-message {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 60px;
+  background: #fff;
+  .submit-box {
+    padding: 145px 341px;
+    text-align: center;
+    @include screen-phone {
+      padding: 110px 100px;
+    }
+    img {
+      width: 100%;
+      margin-bottom: 28px;
+    }
+    .success {
+      font-size: 36px;
+      font-style: normal;
+      font-family: var(--font-inter);
+      font-weight: 500;
+      @include screen-phone {
+        font-size: 28px;
+      }
+    }
+  }
+}

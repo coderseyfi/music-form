@@ -1,0 +1,54 @@
+<svg width="428" height="1308" viewBox="0 0 428 1308" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g style="mix-blend-mode:multiply" opacity="0.4" clip-path="url(#clip0_276_96)">
+<path d="M-158.272 41.12C-6.08734 1.5827 392.631 61.8562 385.924 429.113C379.218 796.37 -197.671 865.267 -3.41605 1273.94" stroke="url(#paint0_linear_276_96)" stroke-width="3" stroke-miterlimit="10"/>
+<path d="M-181.338 91.9319C-48.1733 57.3525 351.846 94.9122 350.823 444.101C348.794 787.491 -197.891 876.732 -11.1409 1269.82" stroke="url(#paint1_linear_276_96)" stroke-width="2.75" stroke-miterlimit="10"/>
+<path d="M-204.422 142.759C-90.2767 113.12 312.019 127.947 315.721 459.088C319.29 778.603 -198.112 888.196 -18.8658 1265.7" stroke="url(#paint2_linear_276_96)" stroke-width="2.5" stroke-miterlimit="10"/>
+<path d="M-227.49 193.589C-132.38 168.889 271.572 160.988 280.619 474.077C289.168 769.704 -198.317 899.68 -26.5907 1261.58" stroke="url(#paint3_linear_276_96)" stroke-width="2.25" stroke-miterlimit="10"/>
+<path d="M-250.575 244.417C-174.484 224.657 230.985 194.012 245.517 489.064C258.905 760.806 -198.537 911.145 -34.3136 1257.44" stroke="url(#paint4_linear_276_96)" stroke-width="2" stroke-miterlimit="10"/>
+<path d="M-273.642 295.247C-216.57 280.427 190.242 227.02 210.414 504.07C228.465 751.908 -198.759 922.627 -42.0403 1253.33" stroke="url(#paint5_linear_276_96)" stroke-width="1.75" stroke-miterlimit="10"/>
+<path d="M-296.727 346.076C-258.673 336.197 149.265 260.057 175.312 519.059C197.829 743.025 -198.964 934.112 -49.7827 1249.21" stroke="url(#paint6_linear_276_96)" stroke-width="1.5" stroke-miterlimit="10"/>
+<path d="M-319.793 396.887C-300.775 391.947 108.003 293.115 140.212 534.029C166.963 734.15 -199.183 945.559 -57.5058 1245.07" stroke="url(#paint7_linear_276_96)" stroke-width="1.25" stroke-miterlimit="10"/>
+<path d="M-342.878 447.715C-342.878 447.715 66.3223 326.286 105.093 549.015C135.786 725.366 -199.421 957.021 -65.2463 1240.93" stroke="url(#paint8_linear_276_96)" stroke-miterlimit="10"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_276_96" x1="-221.408" y1="630.573" x2="359.043" y2="692.745" gradientUnits="userSpaceOnUse">
+<stop stop-color="#2F2F2F"/>
+<stop offset="1" stop-color="#A7A7A7"/>
+</linearGradient>
+<linearGradient id="paint1_linear_276_96" x1="-241.47" y1="653.343" x2="323.552" y2="713.862" gradientUnits="userSpaceOnUse">
+<stop stop-color="#2F2F2F"/>
+<stop offset="1" stop-color="#A7A7A7"/>
+</linearGradient>
+<linearGradient id="paint2_linear_276_96" x1="-261.517" y1="675.814" x2="288.229" y2="734.696" gradientUnits="userSpaceOnUse">
+<stop stop-color="#2F2F2F"/>
+<stop offset="1" stop-color="#A7A7A7"/>
+</linearGradient>
+<linearGradient id="paint3_linear_276_96" x1="-281.503" y1="697.867" x2="252.955" y2="755.113" gradientUnits="userSpaceOnUse">
+<stop stop-color="#2F2F2F"/>
+<stop offset="1" stop-color="#A7A7A7"/>
+</linearGradient>
+<linearGradient id="paint4_linear_276_96" x1="-301.44" y1="719.304" x2="217.802" y2="774.92" gradientUnits="userSpaceOnUse">
+<stop stop-color="#2F2F2F"/>
+<stop offset="1" stop-color="#A7A7A7"/>
+</linearGradient>
+<linearGradient id="paint5_linear_276_96" x1="-321.275" y1="739.957" x2="182.792" y2="793.948" gradientUnits="userSpaceOnUse">
+<stop stop-color="#2F2F2F"/>
+<stop offset="1" stop-color="#A7A7A7"/>
+</linearGradient>
+<linearGradient id="paint6_linear_276_96" x1="-341.022" y1="759.621" x2="147.954" y2="811.995" gradientUnits="userSpaceOnUse">
+<stop stop-color="#2F2F2F"/>
+<stop offset="1" stop-color="#A7A7A7"/>
+</linearGradient>
+<linearGradient id="paint7_linear_276_96" x1="-360.63" y1="778.155" x2="113.311" y2="828.919" gradientUnits="userSpaceOnUse">
+<stop stop-color="#2F2F2F"/>
+<stop offset="1" stop-color="#A7A7A7"/>
+</linearGradient>
+<linearGradient id="paint8_linear_276_96" x1="-380.132" y1="795.523" x2="78.8576" y2="844.685" gradientUnits="userSpaceOnUse">
+<stop stop-color="#2F2F2F"/>
+<stop offset="1" stop-color="#A7A7A7"/>
+</linearGradient>
+<clipPath id="clip0_276_96">
+<rect width="1237" height="727" fill="white" transform="matrix(-0.1065 0.994313 0.994313 0.1065 -295.26 0)"/>
+</clipPath>
+</defs>
+</svg>
