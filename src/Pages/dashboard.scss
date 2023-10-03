@@ -1,9 +1,14 @@
+@import '../scss/abstracts/mixins';
 .dashboard {
   background: #fffaf2;
   background-image: url('../assets/icons/bg.png');
+  background-repeat: no-repeat;
   mix-blend-mode: luminosity;
   padding-top: 70px;
   padding-bottom: 210px;
+  @include screen-phone {
+    padding-bottom: 40px;
+  }
   position: relative;
   .left {
     position: absolute;
