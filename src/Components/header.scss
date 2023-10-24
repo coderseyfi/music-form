@@ -1,6 +1,6 @@
 @import '../scss/abstracts/mixins';
 .header {
-  margin-bottom: 130px;
+  margin-bottom: 90px;
   @include screen-phone {
     margin-bottom: 60px;
   }

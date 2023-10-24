@@ -5,7 +5,9 @@
   background-repeat: no-repeat;
   mix-blend-mode: luminosity;
   padding-top: 70px;
-  padding-bottom: 210px;
+  padding-bottom: 180px;
+  background-size: cover;
+  height: 100vh;
   @include screen-phone {
     padding-bottom: 40px;
   }
@@ -15,8 +17,10 @@
     left: 0;
     top: 0;
     z-index: -1;
+    height: 100%;
     img {
       width: 100%;
+      height: 100%;
     }
   }
   .right {
@@ -24,8 +28,11 @@
     right: 0;
     top: 0;
     z-index: -1;
+    height: 100%;
+
     img {
       width: 100%;
+      height: 100%;
     }
   }
 }
