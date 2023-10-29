@@ -7,11 +7,10 @@
   padding-top: 70px;
   padding-bottom: 180px;
   background-size: cover;
-  height: 100vh;
+  height: 130vh;
   @include screen-phone {
     padding-bottom: 40px;
   }
-  position: relative;
   .left {
     position: absolute;
     left: 0;
